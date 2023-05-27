@@ -21,6 +21,7 @@ export default component$(() => {
 		<QwikCityProvider>
 			<head>
 				<meta charSet="utf-8" />
+				<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
 				<RouterHead />
 			</head>
 			<body lang="ar" dir="rtl">
