@@ -1,0 +1,1678 @@
+[
+	{
+		"id": 1,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What does SDLC stand for?",
+		"answer": "SDLC stands for Systems Development Life Cycle."
+	},
+	{
+		"id": 2,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What are the main phases of the SDLC?",
+		"answer": "The main phases of the SDLC are planning, analysis, design, implementation, and maintenance."
+	},
+	{
+		"id": 3,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is the purpose of the analysis phase in the SDLC?",
+		"answer": "The purpose of the analysis phase is to understand the existing system and gather user requirements."
+	},
+	{
+		"id": 4,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is the role of the design phase in the SDLC?",
+		"answer": "The design phase involves creating a blueprint for the new system, including architecture and user interface."
+	},
+	{
+		"id": 5,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is the importance of the systems development environment?",
+		"answer": "The systems development environment includes factors such as organizational culture and project management methodologies, which can significantly impact the success of system development projects."
+	},
+	{
+		"id": 6,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is the role of the planning phase in the SDLC?",
+		"answer": "The planning phase involves defining the scope, objectives, and requirements of the project."
+	},
+	{
+		"id": 7,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What tasks are involved in the implementation phase of the SDLC?",
+		"answer": "The implementation phase includes tasks such as coding, integration, and user training."
+	},
+	{
+		"id": 8,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is the purpose of the maintenance phase in the SDLC?",
+		"answer": "The purpose of the maintenance phase is to provide ongoing support, enhancements, and bug fixes to the system."
+	},
+	{
+		"id": 9,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What factors are considered in the systems development environment?",
+		"answer": "The systems development environment considers factors such as organizational culture, management support, project management methodologies, development tools, and team dynamics."
+	},
+	{
+		"id": 10,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is the goal of systems development?",
+		"answer": "The goal of systems development is to create or modify information systems to meet specific business needs."
+	},
+	{
+		"id": 251,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is project management?",
+		"answer": "Project management is a controlled process of initiating, planning, executing, and closing down a project."
+	},
+	{
+		"id": 252,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What are the skills required to be an effective project manager?",
+		"answer": "An effective project manager should possess management, leadership, technical, conflict management, and customer relationship skills."
+	},
+	{
+		"id": 253,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What are the phases of project management?",
+		"answer": "The phases of project management are initiation, planning, execution, and closedown."
+	},
+	{
+		"id": 254,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is a deliverable in the context of project management?",
+		"answer": "A deliverable refers to the end product of a phase in the systems development life cycle (SDLC)."
+	},
+	{
+		"id": 255,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is critical path scheduling?",
+		"answer": "Critical path scheduling is a technique in project management that determines the shortest time in which a project can be completed by considering the order and duration of a sequence of task activities."
+	},
+	{
+		"id": 256,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is a Joint Application Design (JAD) session?",
+		"answer": "A JAD session is a facilitated meeting that brings together key users, managers, and systems analysts to collect system requirements simultaneously."
+	},
+	{
+		"id": 257,
+		"subject": "تحليل وتصميم النظم",
+		"question": "How can prototyping be used during requirements determination?",
+		"answer": "Prototyping can quickly convert requirements into a working version of the system, allowing users to provide feedback and request modifications."
+	},
+	{
+		"id": 258,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What are some contemporary approaches to requirements determination?",
+		"answer": "Contemporary approaches include JAD sessions, group support systems, CASE tools, and system prototypes."
+	},
+	{
+		"id": 11,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is the purpose of modern systems analysis?",
+		"answer": "The purpose of modern systems analysis is to understand and improve business processes through the effective use of information systems."
+	},
+	{
+		"id": 12,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What are the key steps in modern systems analysis?",
+		"answer": "The key steps in modern systems analysis include identifying business needs, gathering requirements, modeling processes, and designing system solutions."
+	},
+	{
+		"id": 13,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What techniques are used in modern systems analysis?",
+		"answer": "Techniques used in modern systems analysis include interviews, surveys, observations, data modeling, and prototyping."
+	},
+	{
+		"id": 14,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is the role of a systems analyst in modern systems analysis?",
+		"answer": "A systems analyst is responsible for analyzing business processes, gathering requirements, designing system solutions, and facilitating communication between stakeholders and development teams."
+	},
+	{
+		"id": 15,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What are the benefits of using modern systems analysis in an organization?",
+		"answer": "The benefits of using modern systems analysis include improved efficiency, better decision-making, enhanced communication, and the alignment of information systems with business goals."
+	},
+	{
+		"id": 16,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is the role of stakeholders in modern systems analysis?",
+		"answer": "Stakeholders play a crucial role in modern systems analysis by providing input, feedback, and validation throughout the analysis and design process."
+	},
+	{
+		"id": 17,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What are the challenges faced in modern systems analysis projects?",
+		"answer": "Challenges in modern systems analysis projects can include managing scope creep, addressing conflicting requirements, ensuring user adoption, and managing project timelines and budgets."
+	},
+	{
+		"id": 18,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is the importance of documentation in modern systems analysis?",
+		"answer": "Documentation is important in modern systems analysis as it helps capture and communicate requirements, design decisions, system specifications, and serves as a reference for future maintenance and enhancements."
+	},
+	{
+		"id": 19,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is the difference between functional and non-functional requirements in modern systems analysis?",
+		"answer": "Functional requirements specify what the system should do, while non-functional requirements define system qualities such as performance, security, reliability, and usability."
+	},
+	{
+		"id": 20,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is the purpose of system modeling in modern systems analysis?",
+		"answer": "The purpose of system modeling is to visually represent and analyze the structure, behavior, and interactions of a system, helping stakeholders understand and validate the proposed solution."
+	},
+	{
+		"id": 21,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is the role of prototyping in systems analysis and design?",
+		"answer": "Prototyping helps in visualizing system functionalities and obtaining feedback early in the development process, improving system usability and reducing rework."
+	},
+	{
+		"id": 22,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is the purpose of determining system requirements?",
+		"answer": "The purpose is to identify and document the needs and constraints of the system."
+	},
+	{
+		"id": 23,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What techniques can be used to gather system requirements?",
+		"answer": "Techniques such as interviews, surveys, observations, and document analysis can be used."
+	},
+	{
+		"id": 24,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is the difference between functional and non-functional requirements?",
+		"answer": "Functional requirements specify what the system should do, while non-functional requirements specify how the system should perform."
+	},
+	{
+		"id": 25,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is a use case diagram?",
+		"answer": "A use case diagram is a visual representation that shows the interactions between actors and the system."
+	},
+	{
+		"id": 26,
+		"subject": "تحليل وتصميم النظم",
+		"question": "Why is it important to prioritize system requirements?",
+		"answer": "Prioritizing requirements helps allocate resources effectively and ensures that critical needs are addressed first."
+	},
+	{
+		"id": 27,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is the purpose of a feasibility study in determining system requirements?",
+		"answer": "The purpose is to assess the technical, economic, and operational feasibility of implementing the system."
+	},
+	{
+		"id": 28,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is the difference between user requirements and system requirements?",
+		"answer": "User requirements focus on what the users need and expect from the system, while system requirements specify the capabilities and functionalities of the system."
+	},
+	{
+		"id": 29,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What are some common challenges in determining system requirements?",
+		"answer": "Common challenges include incomplete or changing requirements, conflicting stakeholder needs, and communication issues."
+	},
+	{
+		"id": 30,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is the purpose of requirements validation?",
+		"answer": "The purpose is to ensure that the identified requirements are accurate, consistent, and complete."
+	},
+	{
+		"id": 31,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is the role of stakeholders in determining system requirements?",
+		"answer": "Stakeholders provide input, provide feedback, and make decisions regarding the requirements to ensure that the system meets their needs and expectations."
+	},
+	{
+		"id": 32,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is the purpose of structuring the system process?",
+		"answer": "The purpose is to organize and define the sequence of activities required to achieve the system's objectives."
+	},
+	{
+		"id": 33,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What are the key components of a system process?",
+		"answer": "The key components include inputs, processes, outputs, and feedback mechanisms."
+	},
+	{
+		"id": 34,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is the role of requirements in system analysis and design?",
+		"answer": "Requirements help define the functionality, performance, and constraints of the system being developed."
+	},
+	{
+		"id": 35,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What are functional requirements?",
+		"answer": "Functional requirements describe the specific functions or tasks the system should perform."
+	},
+	{
+		"id": 36,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What are non-functional requirements?",
+		"answer": "Non-functional requirements specify the quality attributes and constraints of the system, such as performance, security, and usability."
+	},
+	{
+		"id": 37,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is the purpose of system analysis?",
+		"answer": "The purpose is to understand the existing system and identify improvements or new system requirements."
+	},
+	{
+		"id": 38,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is the role of system design?",
+		"answer": "The role is to create a detailed blueprint for the new system, including its structure, interfaces, and data flow."
+	},
+	{
+		"id": 39,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is the importance of user involvement in system analysis and design?",
+		"answer": "User involvement ensures that the system meets their needs and increases user acceptance and satisfaction."
+	},
+	{
+		"id": 40,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is system modeling?",
+		"answer": "System modeling is the process of creating abstract representations of the system to understand its behavior and interactions."
+	},
+	{
+		"id": 259,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is the purpose of logical modeling of processes?",
+		"answer": "The purpose is to graphically represent the processes that capture, manipulate, store, and distribute data between a system and its environment and among system components."
+	},
+	{
+		"id": 260,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What are the deliverables of process modeling?",
+		"answer": "The deliverables include a context data flow diagram (DFD), DFDs of the current physical and logical system, DFDs of the new logical system, and a thorough description of each DFD component."
+	},
+	{
+		"id": 261,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What are the four symbols used in data flow diagramming?",
+		"answer": "The four symbols used are process, data store, source/sink, and data flow."
+	},
+	{
+		"id": 262,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is the conservation principle in DFDs?",
+		"answer": "The conservation principle states that inputs and outputs to a process at a lower level of decomposition should be conserved in terms of the number of inputs and outputs."
+	},
+	{
+		"id": 263,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is the purpose of balancing DFDs?",
+		"answer": "The purpose of balancing DFDs is to ensure that the number of inputs and outputs to a process in a lower-level DFD matches the number of inputs and outputs to the associated process in a higher-level DFD."
+	},
+	{
+		"id": 264,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What are the four different types of DFDs?",
+		"answer": "The four types are current physical, current logical, new logical, and new physical DFDs."
+	},
+	{
+		"id": 265,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What are the guidelines for drawing DFDs?",
+		"answer": "The guidelines include ensuring completeness and consistency, not representing time on DFDs, using iterative development, determining when to stop decomposition, and using DFDs for gap analysis and identifying system inefficiencies."
+	},
+	{
+		"id": 41,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is the purpose of system testing?",
+		"answer": "The purpose is to verify that the system meets the specified requirements and functions correctly."
+	},
+	{
+		"id": 41,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is the purpose of designing databases in systems analysis?",
+		"answer": "The purpose of designing databases is to create an organized structure for storing and retrieving data efficiently in an information system."
+	},
+	{
+		"id": 42,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What are the main components of a database design?",
+		"answer": "The main components of a database design are entities, attributes, relationships, and constraints."
+	},
+	{
+		"id": 43,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is entity-relationship modeling?",
+		"answer": "Entity-relationship modeling is a technique used to visually represent the relationships between entities in a database system."
+	},
+	{
+		"id": 266,
+		"subject": "تحليل وتصميم النظم",
+		"question": "Define entity type.",
+		"answer": "An entity type is a collection of entities that share common properties or characteristics."
+	},
+	{
+		"id": 267,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is a multivalued attribute?",
+		"answer": "A multivalued attribute is an attribute that can have more than one value for each entity instance."
+	},
+	{
+		"id": 268,
+		"subject": "تحليل وتصميم النظم",
+		"question": "Explain the role of conceptual data modeling in the overall analysis and design of an information system.",
+		"answer": "Conceptual data modeling helps capture the overall structure of data in an organization, independent of any specific database management system or implementation considerations. It provides a detailed model that aids in understanding the data requirements of the system."
+	},
+	{
+		"id": 269,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What are the four basic types of business rules in a conceptual data model?",
+		"answer": "The four basic types of business rules in a conceptual data model are uniqueness rules, relationship rules, derivation rules, and integrity rules."
+	},
+	{
+		"id": 270,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is the role of prepackaged database models in data modeling?",
+		"answer": "Prepackaged database models, also known as patterns, provide ready-made templates or structures that can be used as a starting point for data modeling. They offer standard solutions for common business situations, saving time and effort in the modeling process."
+	},
+	{
+		"id": 271,
+		"subject": "تحليل وتصميم النظم",
+		"question": "Differentiate between unary, binary, and ternary relationships and provide an example of each.",
+		"answer": "A unary relationship is a relationship between instances of the same entity type (e.g., \"Employee manages Employee\"). A binary relationship is a relationship between instances of two different entity types (e.g., \"Customer places Order\"). A ternary relationship is a relationship among instances of three different entity types (e.g., \"Student enrolls in Course offered by Faculty\")."
+	},
+	{
+		"id": 272,
+		"subject": "تحليل وتصميم النظم",
+		"question": "Define supertype and subtype.",
+		"answer": "In data modeling, a supertype is a generic entity type that represents a set of related subtypes. Subtypes inherit attributes and relationships from the supertype but can also have their own specific attributes and relationships."
+	},
+	{
+		"id": 44,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is normalization in database design?",
+		"answer": "Normalization is the process of organizing data in a database to eliminate redundancy and improve data integrity and efficiency."
+	},
+	{
+		"id": 45,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is a primary key in a database?",
+		"answer": "A primary key is a unique identifier for each record in a database table."
+	},
+	{
+		"id": 46,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is a foreign key in a database?",
+		"answer": "A foreign key is a field in a table that references the primary key of another table, establishing a relationship between the two tables."
+	},
+	{
+		"id": 47,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is the purpose of indexing in database design?",
+		"answer": "Indexing in database design improves the performance of data retrieval operations by creating efficient data access paths."
+	},
+	{
+		"id": 48,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is denormalization in database design?",
+		"answer": "Denormalization is the process of intentionally introducing redundancy in a database design to improve performance."
+	},
+	{
+		"id": 49,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is a data dictionary in database design?",
+		"answer": "A data dictionary is a central repository that contains metadata about the data elements and their relationships in a database."
+	},
+	{
+		"id": 50,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is the purpose of data modeling in database design?",
+		"answer": "The purpose of data modeling is to create a conceptual representation of how data should be organized and structured in a database system."
+	},
+	{
+		"id": 51,
+		"subject": "قواعد البيانات 2",
+		"question": "What is the primary purpose of disk storage in a database system?",
+		"answer": "The primary purpose of disk storage in a database system is to provide long-term, persistent storage for data."
+	},
+	{
+		"id": 52,
+		"subject": "قواعد البيانات 2",
+		"question": "What are the basic file structures used in database systems?",
+		"answer": "The basic file structures used in database systems include heap files, sorted files, and hash files."
+	},
+	{
+		"id": 53,
+		"subject": "قواعد البيانات 2",
+		"question": "What is a heap file?",
+		"answer": "A heap file is an unordered collection of records stored on disk, where records are inserted at the end of the file."
+	},
+	{
+		"id": 54,
+		"subject": "قواعد البيانات 2",
+		"question": "What is a sorted file?",
+		"answer": "A sorted file is a collection of records stored on disk in a sorted order based on a particular attribute or key."
+	},
+	{
+		"id": 55,
+		"subject": "قواعد البيانات 2",
+		"question": "What is hashing?",
+		"answer": "Hashing is a technique used to map a key value to a specific location in a file or an array, enabling efficient retrieval of data."
+	},
+	{
+		"id": 56,
+		"subject": "قواعد البيانات 2",
+		"question": "What is a hash file?",
+		"answer": "A hash file is a file organization technique that uses hashing to store and retrieve records based on a hashed key value."
+	},
+	{
+		"id": 57,
+		"subject": "قواعد البيانات 2",
+		"question": "What is collision handling in hashing?",
+		"answer": "Collision handling in hashing refers to the process of dealing with two or more records that hash to the same location."
+	},
+	{
+		"id": 58,
+		"subject": "قواعد البيانات 2",
+		"question": "What are the commonly used collision handling techniques in hashing?",
+		"answer": "The commonly used collision handling techniques in hashing are chaining and open addressing."
+	},
+	{
+		"id": 59,
+		"subject": "قواعد البيانات 2",
+		"question": "What is a bucket in hash-based indexing?",
+		"answer": "A bucket is a unit of storage in a hash-based index, which can hold one or more records with the same hash value."
+	},
+	{
+		"id": 60,
+		"subject": "قواعد البيانات 2",
+		"question": "What is an index in a database system?",
+		"answer": "An index is a data structure that improves the speed of data retrieval operations on a database table."
+	},
+	{
+		"id": 61,
+		"subject": "قواعد البيانات 2",
+		"question": "What is the purpose of indexing structures for files?",
+		"answer": "Indexing structures help optimize data access and retrieval by providing efficient methods for locating and accessing specific records in a file."
+	},
+	{
+		"id": 62,
+		"subject": "قواعد البيانات 2",
+		"question": "What is a primary index?",
+		"answer": "A primary index is an index on the primary key of a database table, which determines the physical order of data records in the file."
+	},
+	{
+		"id": 63,
+		"subject": "قواعد البيانات 2",
+		"question": "What is a secondary index?",
+		"answer": "A secondary index is an index that is based on a non-key field, providing an alternate way to access records based on different search criteria."
+	},
+	{
+		"id": 64,
+		"subject": "قواعد البيانات 2",
+		"question": "What is a clustered index?",
+		"answer": "A clustered index determines the physical order of data records in a table. In a clustered index, the data records themselves are physically sorted."
+	},
+	{
+		"id": 65,
+		"subject": "قواعد البيانات 2",
+		"question": "What is a non-clustered index?",
+		"answer": "A non-clustered index does not affect the physical order of data records in a table. It is stored separately and provides a quick lookup structure."
+	},
+	{
+		"id": 66,
+		"subject": "قواعد البيانات 2",
+		"question": "What is the difference between a dense index and a sparse index?",
+		"answer": "A dense index has an index entry for every search key value, while a sparse index has index entries only for some of the search key values."
+	},
+	{
+		"id": 67,
+		"subject": "قواعد البيانات 2",
+		"question": "What is the advantage of using a B+-tree index structure?",
+		"answer": "A B+-tree index structure allows for efficient range queries and supports both equality and inequality search operations."
+	},
+	{
+		"id": 68,
+		"subject": "قواعد البيانات 2",
+		"question": "What is a bitmap index?",
+		"answer": "A bitmap index is a compressed index structure that represents a column of a table as a bitmap, with each bit indicating the presence or absence of a value."
+	},
+	{
+		"id": 69,
+		"subject": "قواعد البيانات 2",
+		"question": "What is the purpose of a hash index?",
+		"answer": "A hash index provides direct access to data records based on a hash function, allowing for fast retrieval of specific records."
+	},
+	{
+		"id": 70,
+		"subject": "قواعد البيانات 2",
+		"question": "What is query processing?",
+		"answer": "Query processing is the execution of a database query, including steps such as parsing, optimization, and evaluation."
+	},
+	{
+		"id": 71,
+		"subject": "قواعد البيانات 2",
+		"question": "What is query optimization?",
+		"answer": "Query optimization is the process of selecting the most efficient execution plan for a given query."
+	},
+	{
+		"id": 72,
+		"subject": "قواعد البيانات 2",
+		"question": "What is the goal of query optimization?",
+		"answer": "The goal of query optimization is to minimize the execution time and resource usage of a query."
+	},
+	{
+		"id": 73,
+		"subject": "قواعد البيانات 2",
+		"question": "What is a query plan?",
+		"answer": "A query plan is a specific sequence of operations chosen by the optimizer to execute a query."
+	},
+	{
+		"id": 74,
+		"subject": "قواعد البيانات 2",
+		"question": "What are indexes in a database?",
+		"answer": "Indexes are data structures that improve the speed of data retrieval operations on database tables."
+	},
+	{
+		"id": 75,
+		"subject": "قواعد البيانات 2",
+		"question": "What is a join operation in database queries?",
+		"answer": "A join operation combines rows from two or more tables based on a related column between them."
+	},
+	{
+		"id": 76,
+		"subject": "قواعد البيانات 2",
+		"question": "What is a cost-based optimizer?",
+		"answer": "A cost-based optimizer is an optimizer that estimates the cost of different execution plans and selects the most efficient one."
+	},
+	{
+		"id": 77,
+		"subject": "قواعد البيانات 2",
+		"question": "What is predicate selectivity?",
+		"answer": "Predicate selectivity is the fraction of rows in a table that satisfy a specific condition in a query."
+	},
+	{
+		"id": 78,
+		"subject": "قواعد البيانات 2",
+		"question": "What is an access path in database query processing?",
+		"answer": "An access path is a path followed to retrieve data from a database table, such as through an index or a full table scan."
+	},
+	{
+		"id": 79,
+		"subject": "قواعد البيانات 2",
+		"question": "What is cost estimation in query optimization?",
+		"answer": "Cost estimation is the process of estimating the execution cost of a query plan, usually based on statistics about the database."
+	},
+	{
+		"id": 80,
+		"subject": "قواعد البيانات 2",
+		"question": "What is PL/SQL?",
+		"answer": "PL/SQL (Procedural Language/Structured Query Language) is a programming language designed for database management and processing in Oracle Database."
+	},
+	{
+		"id": 81,
+		"subject": "قواعد البيانات 2",
+		"question": "What are the benefits of using PL/SQL?",
+		"answer": "Some benefits of using PL/SQL include better performance, improved productivity, enhanced security, and seamless integration with SQL."
+	},
+	{
+		"id": 82,
+		"subject": "قواعد البيانات 2",
+		"question": "What are triggers in a database?",
+		"answer": "Triggers are stored programs that are automatically executed or fired in response to specified events or actions performed on a database table."
+	},
+	{
+		"id": 83,
+		"subject": "قواعد البيانات 2",
+		"question": "What is the purpose of triggers?",
+		"answer": "Triggers are used to enforce business rules, maintain data integrity, perform automatic data modifications, and implement complex database logic."
+	},
+	{
+		"id": 84,
+		"subject": "قواعد البيانات 2",
+		"question": "What are the types of triggers in PL/SQL?",
+		"answer": "There are three types of triggers: row-level triggers, statement-level triggers, and system triggers."
+	},
+	{
+		"id": 85,
+		"subject": "قواعد البيانات 2",
+		"question": "What is the difference between row-level and statement-level triggers?",
+		"answer": "Row-level triggers are fired for each affected row, while statement-level triggers are fired once for each triggering statement."
+	},
+	{
+		"id": 86,
+		"subject": "قواعد البيانات 2",
+		"question": "What is the syntax for creating a trigger in PL/SQL?",
+		"answer": "The syntax for creating a trigger in PL/SQL is: CREATE [OR REPLACE] TRIGGER trigger_name {BEFORE | AFTER | INSTEAD OF} {INSERT | UPDATE | DELETE} ON table_name [FOR EACH ROW] [WHEN (condition)] [DECLARE declarations] BEGIN executable_statements END;"
+	},
+	{
+		"id": 87,
+		"subject": "قواعد البيانات 2",
+		"question": "What is the difference between a database trigger and a stored procedure?",
+		"answer": "A database trigger is automatically executed in response to an event or action on a table, while a stored procedure is a named program that is explicitly called by a user or application."
+	},
+	{
+		"id": 88,
+		"subject": "قواعد البيانات 2",
+		"question": "What is a stored procedure?",
+		"answer": "A stored procedure is a named PL/SQL block that performs a specific task. It can be stored and executed on the database server."
+	},
+	{
+		"id": 89,
+		"subject": "قواعد البيانات 2",
+		"question": "What is a function in PL/SQL?",
+		"answer": "A function is a named PL/SQL block that returns a value. It can be used within SQL statements or in PL/SQL code."
+	},
+	{
+		"id": 90,
+		"subject": "قواعد البيانات 2",
+		"question": "What is the difference between a procedure and a function in PL/SQL?",
+		"answer": "A procedure does not return a value, whereas a function does. Functions can be used within SQL statements, while procedures cannot."
+	},
+	{
+		"id": 91,
+		"subject": "برمجة مواقع الويب",
+		"question": "What is web design?",
+		"answer": "Web design refers to the process of creating the visual and functional aspects of a website."
+	},
+	{
+		"id": 92,
+		"subject": "برمجة مواقع الويب",
+		"question": "What is HTML?",
+		"answer": "HTML (Hypertext Markup Language) is the standard markup language used for creating web pages and structuring their content."
+	},
+	{
+		"id": 93,
+		"subject": "برمجة مواقع الويب",
+		"question": "What is CSS?",
+		"answer": "CSS (Cascading Style Sheets) is a style sheet language used for describing the look and formatting of a document written in HTML."
+	},
+	{
+		"id": 94,
+		"subject": "برمجة مواقع الويب",
+		"question": "What is JavaScript?",
+		"answer": "JavaScript is a programming language that enables dynamic and interactive elements on web pages."
+	},
+	{
+		"id": 95,
+		"subject": "برمجة مواقع الويب",
+		"question": "What is responsive web design?",
+		"answer": "Responsive web design is an approach to design and development that ensures web pages display properly on various devices and screen sizes."
+	},
+	{
+		"id": 96,
+		"subject": "برمجة مواقع الويب",
+		"question": "What does HTML stand for?",
+		"answer": "HyperText Markup Language"
+	},
+	{
+		"id": 97,
+		"subject": "برمجة مواقع الويب",
+		"question": "What is the purpose of HTML?",
+		"answer": "To structure and present content on the web."
+	},
+	{
+		"id": 98,
+		"subject": "برمجة مواقع الويب",
+		"question": "What are HTML tags?",
+		"answer": "HTML tags are elements used to define the structure and content of a web page."
+	},
+	{
+		"id": 99,
+		"subject": "برمجة مواقع الويب",
+		"question": "What is the basic structure of an HTML document?",
+		"answer": "It consists of an opening HTML tag, a head section, a body section, and a closing HTML tag."
+	},
+	{
+		"id": 100,
+		"subject": "برمجة مواقع الويب",
+		"question": "What is the role of the head section in an HTML document?",
+		"answer": "The head section contains meta-information about the web page, such as its title, character encoding, and linked stylesheets."
+	},
+	{
+		"id": 101,
+		"subject": "برمجة مواقع الويب",
+		"question": "What is the purpose of the body section in an HTML document?",
+		"answer": "The body section contains the visible content of the web page, such as text, images, links, and other elements."
+	},
+	{
+		"id": 102,
+		"subject": "برمجة مواقع الويب",
+		"question": "What is an HTML attribute?",
+		"answer": "An HTML attribute provides additional information or modifies the behavior of an HTML element."
+	},
+	{
+		"id": 103,
+		"subject": "برمجة مواقع الويب",
+		"question": "What is the alt attribute used for in an HTML img tag?",
+		"answer": "The alt attribute provides alternative text for an image, which is displayed if the image fails to load."
+	},
+	{
+		"id": 104,
+		"subject": "برمجة مواقع الويب",
+		"question": "What is the purpose of the anchor tag in HTML?",
+		"answer": "The anchor tag (<a>) is used to create hyperlinks that link to other web pages or specific sections within a page."
+	},
+	{
+		"id": 105,
+		"subject": "برمجة مواقع الويب",
+		"question": "What is the difference between an ordered list (<ol>) and an unordered list (<ul>) in HTML?",
+		"answer": "An ordered list displays numbered items, while an unordered list displays bulleted items."
+	},
+	{
+		"id": 106,
+		"subject": "برمجة مواقع الويب",
+		"question": "What is the purpose of using tables in web design?",
+		"answer": "Tables are used to organize and present tabular data on a web page."
+	},
+	{
+		"id": 107,
+		"subject": "برمجة مواقع الويب",
+		"question": "What are the main elements of an HTML table?",
+		"answer": "The main elements of an HTML table are <table>, <tr>, <th>, and <td>."
+	},
+	{
+		"id": 108,
+		"subject": "برمجة مواقع الويب",
+		"question": "How can you create a form in HTML?",
+		"answer": "A form in HTML is created using the <form> element."
+	},
+	{
+		"id": 109,
+		"subject": "برمجة مواقع الويب",
+		"question": "What are some common form input types?",
+		"answer": "Common form input types include text fields, checkboxes, radio buttons, and dropdown menus."
+	},
+	{
+		"id": 110,
+		"subject": "برمجة مواقع الويب",
+		"question": "How can you validate user input in a form?",
+		"answer": "User input in a form can be validated using HTML attributes like required or using JavaScript."
+	},
+	{
+		"id": 111,
+		"subject": "برمجة مواقع الويب",
+		"question": "What does CSS stand for?",
+		"answer": "CSS stands for Cascading Style Sheets."
+	},
+	{
+		"id": 112,
+		"subject": "برمجة مواقع الويب",
+		"question": "What is the purpose of CSS?",
+		"answer": "The purpose of CSS is to describe the presentation of a document written in HTML or XML."
+	},
+	{
+		"id": 113,
+		"subject": "برمجة مواقع الويب",
+		"question": "What are selectors in CSS?",
+		"answer": "Selectors are patterns used to select the HTML elements you want to style."
+	},
+	{
+		"id": 114,
+		"subject": "برمجة مواقع الويب",
+		"question": "What is the box model in CSS?",
+		"answer": "The box model in CSS describes the layout and spacing of elements, consisting of content, padding, border, and margin."
+	},
+	{
+		"id": 115,
+		"subject": "برمجة مواقع الويب",
+		"question": "What is the difference between inline and block elements in CSS?",
+		"answer": "Inline elements do not start on a new line and only take up the necessary width, while block elements start on a new line and take up the full width available."
+	},
+
+	{
+		"id": 116,
+		"subject": "برمجة مواقع الويب",
+		"question": "What is the output of the CSS rule 'margin: 10px 20px;'?",
+		"answer": "The element will have a margin of 10 pixels on the top and bottom, and 20 pixels on the left and right."
+	},
+	{
+		"id": 117,
+		"subject": "برمجة مواقع الويب",
+		"question": "What is the output of the CSS rule 'display: none;'?",
+		"answer": "The element will be hidden and will not take up any space in the document."
+	},
+	{
+		"id": 118,
+		"subject": "برمجة مواقع الويب",
+		"question": "What is the output of the CSS rule 'border: 1px solid #000000;'?",
+		"answer": "The element will have a 1-pixel thick solid black border."
+	},
+	{
+		"id": 119,
+		"subject": "برمجة مواقع الويب",
+		"question": "What is the output of the CSS rule 'padding: 10px 5px 15px;'?",
+		"answer": "The element will have a padding of 10 pixels on the top, 5 pixels on the right and left, and 15 pixels on the bottom."
+	},
+	{
+		"id": 120,
+		"subject": "برمجة مواقع الويب",
+		"question": "What is the output of the CSS rule 'text-transform: uppercase;' applied to the text 'hello'?",
+		"answer": "The text will be transformed to uppercase, resulting in 'HELLO'."
+	},
+	{
+		"id": 121,
+		"subject": "Fundamentals of Web Design Technologies",
+		"question": "What are the basic data types in JavaScript?",
+		"answer": "The basic data types in JavaScript are string, number, boolean, null, undefined, and symbol."
+	},
+	{
+		"id": 122,
+		"subject": "Fundamentals of Web Design Technologies",
+		"question": "What are variables in JavaScript?",
+		"answer": "Variables in JavaScript are containers for storing data values."
+	},
+	{
+		"id": 123,
+		"subject": "Fundamentals of Web Design Technologies",
+		"question": "What are the different ways to declare a variable in JavaScript?",
+		"answer": "Variables in JavaScript can be declared using the 'var', 'let', or 'const' keyword."
+	},
+	{
+		"id": 124,
+		"subject": "Fundamentals of Web Design Technologies",
+		"question": "What is the purpose of conditional statements in JavaScript?",
+		"answer": "Conditional statements in JavaScript allow you to make decisions and execute different code blocks based on certain conditions."
+	},
+	{
+		"id": 125,
+		"subject": "برمجة مواقع الويب",
+		"question": "What does DOM stand for?",
+		"answer": "DOM stands for Document Object Model."
+	},
+	{
+		"id": 126,
+		"subject": "برمجة مواقع الويب",
+		"question": "What is the purpose of the DOM in web development?",
+		"answer": "The DOM represents the structure of a web page and allows JavaScript to interact with and manipulate its elements."
+	},
+	{
+		"id": 127,
+		"subject": "برمجة مواقع الويب",
+		"question": "How can you access an element in the DOM using JavaScript?",
+		"answer": "You can access an element in the DOM using its unique identifier, class name, or tag name."
+	},
+	{
+		"id": 128,
+		"subject": "برمجة مواقع الويب",
+		"question": "What is the difference between innerHTML and innerText?",
+		"answer": "innerHTML retrieves or sets the HTML content of an element, while innerText retrieves or sets only the text content, excluding any HTML tags."
+	},
+	{
+		"id": 129,
+		"subject": "برمجة مواقع الويب",
+		"question": "How can you create a new element in the DOM using JavaScript?",
+		"answer": "You can create a new element using the createElement() method and then append it to an existing element using the appendChild() method."
+	},
+	{
+		"id": 130,
+		"subject": "برمجة مواقع الويب",
+		"question": "What is PHP?",
+		"answer": "PHP is a server-side scripting language used for web development."
+	},
+	{
+		"id": 131,
+		"subject": "برمجة مواقع الويب",
+		"question": "What does PHP stand for?",
+		"answer": "PHP stands for Hypertext Preprocessor."
+	},
+	{
+		"id": 132,
+		"subject": "برمجة مواقع الويب",
+		"question": "What is the purpose of PHP in web development?",
+		"answer": "PHP is used to create dynamic web pages and interact with databases."
+	},
+	{
+		"id": 133,
+		"subject": "برمجة مواقع الويب",
+		"question": "How do you start a PHP script?",
+		"answer": "A PHP script starts with the opening tag <?php and ends with the closing tag ?>."
+	},
+	{
+		"id": 134,
+		"subject": "هندسة البرمجيات",
+		"question": "What is software engineering?",
+		"answer": "Software engineering is a discipline that focuses on the systematic development, operation, and maintenance of software systems."
+	},
+	{
+		"id": 135,
+		"subject": "هندسة البرمجيات",
+		"question": "What is the software development process?",
+		"answer": "The software development process is a set of activities and steps followed to design, develop, test, and deploy software applications."
+	},
+	{
+		"id": 136,
+		"subject": "هندسة البرمجيات",
+		"question": "What are software requirements?",
+		"answer": "Software requirements are the functional and non-functional specifications that define what the software should do and how it should perform."
+	},
+	{
+		"id": 137,
+		"subject": "هندسة البرمجيات",
+		"question": "What is software design?",
+		"answer": "Software design involves creating a blueprint or plan for the structure, components, and interactions of a software system."
+	},
+	{
+		"id": 138,
+		"subject": "هندسة البرمجيات",
+		"question": "What is software testing?",
+		"answer": "Software testing is the process of evaluating a software system to identify defects, errors, and ensure its compliance with specified requirements."
+	},
+	{
+		"id": 139,
+		"subject": "هندسة البرمجيات",
+		"question": "What does SDLC stand for?",
+		"answer": "SDLC stands for Software Development Life Cycle."
+	},
+	{
+		"id": 140,
+		"subject": "هندسة البرمجيات",
+		"question": "What is the Agile methodology in software engineering?",
+		"answer": "Agile methodology is an iterative and incremental approach to software development that focuses on flexibility, collaboration, and customer satisfaction."
+	},
+	{
+		"id": 141,
+		"subject": "هندسة البرمجيات",
+		"question": "What is the Waterfall Model?",
+		"answer": "The Waterfall Model is a sequential software development process that progresses linearly through stages, including requirements analysis, design, implementation, testing, and maintenance."
+	},
+	{
+		"id": 142,
+		"subject": "هندسة البرمجيات",
+		"question": "What is the iterative model?",
+		"answer": "The iterative model is a software development process where the development cycle is repeated through a series of iterations, allowing for feedback and refinement."
+	},
+	{
+		"id": 143,
+		"subject": "هندسة البرمجيات",
+		"question": "What are the key principles of Agile software development?",
+		"answer": "The key principles of Agile software development include customer collaboration, responding to change, delivering working software frequently, and promoting self-organizing teams."
+	},
+	{
+		"id": 144,
+		"subject": "هندسة البرمجيات",
+		"question": "What are the differences between Agile and traditional software development approaches?",
+		"answer": "Agile focuses on iterative development, customer collaboration, and adaptability, while traditional approaches are typically linear, with a sequential flow and a fixed scope."
+	},
+	{
+		"id": 145,
+		"subject": "هندسة البرمجيات",
+		"question": "What is requirements engineering?",
+		"answer": "Requirements engineering is the process of gathering, analyzing, documenting, and managing the requirements for a software system."
+	},
+	{
+		"id": 146,
+		"subject": "هندسة البرمجيات",
+		"question": "What are functional requirements?",
+		"answer": "Functional requirements describe the specific behaviors, functions, and features that a software system must have to fulfill user needs and business objectives."
+	},
+	{
+		"id": 147,
+		"subject": "هندسة البرمجيات",
+		"question": "What are non-functional requirements?",
+		"answer": "Non-functional requirements specify the quality attributes and constraints of a software system, such as performance, reliability, usability, and security."
+	},
+	{
+		"id": 148,
+		"subject": "هندسة البرمجيات",
+		"question": "What are some common challenges in requirements engineering?",
+		"answer": "Common challenges include managing changing requirements, resolving conflicts among stakeholders, and ensuring the completeness and consistency of requirements."
+	},
+	{
+		"id": 149,
+		"subject": "هندسة البرمجيات",
+		"question": "What is software testing?",
+		"answer": "Software testing is the process of evaluating a software application to ensure that it meets the specified requirements and functions correctly."
+	},
+	{
+		"id": 150,
+		"subject": "هندسة البرمجيات",
+		"question": "What are the objectives of software testing?",
+		"answer": "The objectives of software testing include identifying defects, ensuring the software meets functional and non-functional requirements, improving software quality, and increasing user confidence in the system."
+	},
+	{
+		"id": 151,
+		"subject": "هندسة البرمجيات",
+		"question": "What is the difference between verification and validation in software testing?",
+		"answer": "Verification involves checking that the software meets the specified requirements, while validation involves evaluating the software during the development process to ensure it satisfies the intended use and user needs."
+	},
+	{
+		"id": 152,
+		"subject": "هندسة البرمجيات",
+		"question": "What are the different levels of testing in software engineering?",
+		"answer": "The different levels of testing include unit testing, integration testing, system testing, and acceptance testing."
+	},
+	{
+		"id": 153,
+		"subject": "هندسة البرمجيات",
+		"question": "What is unit testing?",
+		"answer": "Unit testing is the process of testing individual components or units of code to ensure they function correctly in isolation."
+	},
+	{
+		"id": 154,
+		"subject": "هندسة البرمجيات",
+		"question": "What is integration testing?",
+		"answer": "Integration testing involves testing the interaction between different modules or components of a software system to ensure they work together as expected."
+	},
+	{
+		"id": 155,
+		"subject": "هندسة البرمجيات",
+		"question": "What is system testing?",
+		"answer": "System testing is the process of testing the complete and integrated software system to verify that it meets the specified requirements."
+	},
+	{
+		"id": 156,
+		"subject": "هندسة البرمجيات",
+		"question": "What is acceptance testing?",
+		"answer": "Acceptance testing is performed to determine whether a software system meets the acceptance criteria and is ready for delivery to the end users."
+	},
+	{
+		"id": 157,
+		"subject": "هندسة البرمجيات",
+		"question": "What is the difference between black-box testing and white-box testing?",
+		"answer": "Black-box testing focuses on testing the functionality of the software without considering its internal structure, while white-box testing examines the internal structure and implementation details of the software."
+	},
+	{
+		"id": 158,
+		"subject": "هندسة البرمجيات",
+		"question": "What is regression testing?",
+		"answer": "Regression testing is performed to ensure that changes or updates to the software do not introduce new defects or negatively impact existing functionalities."
+	},
+	{
+		"id": 159,
+		"subject": "الشبكات الاسلكية",
+		"question": "What is a wireless network?",
+		"answer": "A wireless network is a type of computer network that allows devices to connect and communicate without the need for physical wired connections."
+	},
+	{
+		"id": 160,
+		"subject": "الشبكات الاسلكية",
+		"question": "What are the advantages of wireless networks?",
+		"answer": "Advantages of wireless networks include mobility, flexibility, easy scalability, and reduced cabling costs."
+	},
+	{
+		"id": 161,
+		"subject": "الشبكات الاسلكية",
+		"question": "What are the main components of a wireless network?",
+		"answer": "The main components of a wireless network include wireless access points (APs), wireless routers, wireless adapters, and client devices."
+	},
+	{
+		"id": 162,
+		"subject": "الشبكات الاسلكية",
+		"question": "What are the different wireless network standards?",
+		"answer": "Examples of wireless network standards include Wi-Fi (802.11a/b/g/n/ac/ax), Bluetooth, and cellular (3G, 4G, 5G)."
+	},
+	{
+		"id": 163,
+		"subject": "الشبكات الاسلكية",
+		"question": "What is the role of a wireless access point (AP)?",
+		"answer": "A wireless access point acts as a central connection point for wireless devices, allowing them to connect to a wired network."
+	},
+	{
+		"id": 164,
+		"subject": "الشبكات الاسلكية",
+		"question": "What is SSID in wireless networks?",
+		"answer": "SSID (Service Set Identifier) is the name used to identify a wireless network. It allows devices to connect to the correct network."
+	},
+	{
+		"id": 165,
+		"subject": "الشبكات الاسلكية",
+		"question": "What is WEP in wireless security?",
+		"answer": "WEP (Wired Equivalent Privacy) is an older wireless security protocol that provides basic encryption for data transmission over wireless networks."
+	},
+	{
+		"id": 166,
+		"subject": "الشبكات الاسلكية",
+		"question": "What is WPA2 in wireless security?",
+		"answer": "WPA2 (Wi-Fi Protected Access II) is a security protocol that provides stronger encryption and security features compared to WEP."
+	},
+	{
+		"id": 167,
+		"subject": "الشبكات الاسلكية",
+		"question": "What is a mesh network?",
+		"answer": "A mesh network is a type of wireless network where multiple wireless devices work together to provide network coverage over a large area."
+	},
+	{
+		"id": 168,
+		"subject": "الشبكات الاسلكية",
+		"question": "What is the difference between ad hoc and infrastructure wireless networks?",
+		"answer": "An ad hoc wireless network is a decentralized network where devices connect directly to each other, while an infrastructure wireless network uses access points for device connectivity."
+	},
+	{
+		"id": 169,
+		"subject": "الشبكات الاسلكية",
+		"question": "What is the role of encryption in wireless networks?",
+		"answer": "Encryption is used to secure wireless network communications by encoding the data transmitted over the network, making it unreadable to unauthorized users."
+	},
+	{
+		"id": 170,
+		"subject": "الشبكات الاسلكية",
+		"question": "What is the purpose of MAC filtering in a wireless network?",
+		"answer": "MAC filtering is used to control access to a wireless network by allowing or denying devices based on their MAC addresses."
+	},
+	{
+		"id": 171,
+		"subject": "الشبكات الاسلكية",
+		"question": "What is a mesh network?",
+		"answer": "A mesh network is a type of wireless network where multiple wireless nodes communicate with each other to extend network coverage and improve reliability."
+	},
+	{
+		"id": 172,
+		"subject": "الشبكات الاسلكية",
+		"question": "What is the difference between 2.4 GHz and 5 GHz wireless networks?",
+		"answer": "2.4 GHz networks have a longer range but are more susceptible to interference, while 5 GHz networks have a shorter range but offer higher data rates and less interference."
+	},
+	{
+		"id": 173,
+		"subject": "الشبكات الاسلكية",
+		"question": "What is the difference between analog and digital signals?",
+		"answer": "Analog signals are continuous while digital signals are discrete."
+	},
+	{
+		"id": 174,
+		"subject": "الشبكات الاسلكية",
+		"question": "What is modulation?",
+		"answer": "Modulation is the process of changing the characteristics of a signal in order to transmit information."
+	},
+	{
+		"id": 175,
+		"subject": "الشبكات الاسلكية",
+		"question": "What is the purpose of a wireless access point?",
+		"answer": "A wireless access point is used to connect wireless devices to a wired network."
+	},
+	{
+		"id": 176,
+		"subject": "الشبكات الاسلكية",
+		"question": "What is a wireless mesh network?",
+		"answer": "A wireless mesh network is a type of network where each node acts as a router and relays data for other nodes."
+	},
+	{
+		"id": 177,
+		"subject": "الشبكات الاسلكية",
+		"question": "What is multiplexing?",
+		"answer": "Multiplexing is the process of combining multiple signals for transmission over a single channel."
+	},
+	{
+		"id": 178,
+		"subject": "الشبكات الاسلكية",
+		"question": "What is the difference between simplex and duplex transmission?",
+		"answer": "Simplex transmission is one-way while duplex transmission is two-way."
+	},
+	{
+		"id": 179,
+		"subject": "الشبكات الاسلكية",
+		"question": "What is spread spectrum modulation?",
+		"answer": "Spread spectrum modulation is a method of modulating a signal over a wide range of frequencies to reduce interference."
+	},
+	{
+		"id": 180,
+		"subject": "الشبكات الاسلكية",
+		"question": "What is packet switching?",
+		"answer": "Packet switching is a method of transmitting data where the data is divided into packets and sent individually."
+	},
+	{
+		"id": 181,
+		"subject": "الشبكات الاسلكية",
+		"question": "What is the purpose of error detection and correction in wireless networks?",
+		"answer": "Error detection and correction is used to ensure that data is transmitted accurately and without errors."
+	},
+	{
+		"id": 182,
+		"subject": "الشبكات الاسلكية",
+		"question": "What is the difference between FHSS and DSSS modulation?",
+		"answer": "FHSS modulation uses frequency hopping while DSSS modulation uses direct sequence spreading."
+	},
+	{
+		"id": 183,
+		"subject": "الشبكات الاسلكية",
+		"question": "What is modulation in the context of wireless networks?",
+		"answer": "Modulation refers to the process of encoding information onto a carrier signal for transmission over a wireless channel."
+	},
+	{
+		"id": 184,
+		"subject": "الشبكات الاسلكية",
+		"question": "What are the two main types of modulation techniques?",
+		"answer": "The two main types of modulation techniques are analog modulation and digital modulation."
+	},
+	{
+		"id": 185,
+		"subject": "الشبكات الاسلكية",
+		"question": "What is analog modulation?",
+		"answer": "Analog modulation is a technique where the continuous variation of a carrier signal is used to transmit analog information."
+	},
+	{
+		"id": 186,
+		"subject": "الشبكات الاسلكية",
+		"question": "What is digital modulation?",
+		"answer": "Digital modulation is a technique where discrete symbols are used to represent digital information on a carrier signal."
+	},
+	{
+		"id": 187,
+		"subject": "الشبكات الاسلكية",
+		"question": "What are some common analog modulation techniques?",
+		"answer": "Common analog modulation techniques include amplitude modulation (AM), frequency modulation (FM), and phase modulation (PM)."
+	},
+	{
+		"id": 188,
+		"subject": "الشبكات الاسلكية",
+		"question": "What are some common digital modulation techniques?",
+		"answer": "Common digital modulation techniques include amplitude shift keying (ASK), frequency shift keying (FSK), and phase shift keying (PSK)."
+	},
+	{
+		"id": 189,
+		"subject": "الشبكات الاسلكية",
+		"question": "What is the purpose of modulation in wireless communication?",
+		"answer": "The purpose of modulation is to enable the transmission of information over a wireless channel by converting it into a form suitable for propagation and reception."
+	},
+	{
+		"id": 190,
+		"subject": "الشبكات الاسلكية",
+		"question": "What is the advantage of digital modulation over analog modulation?",
+		"answer": "Digital modulation provides better noise immunity, higher data rates, and improved error correction compared to analog modulation."
+	},
+	{
+		"id": 191,
+		"subject": "الشبكات الاسلكية",
+		"question": "What is the concept of modulation depth in analog modulation?",
+		"answer": "Modulation depth refers to the extent of variation in amplitude, frequency, or phase of the carrier signal in analog modulation."
+	},
+	{
+		"id": 192,
+		"subject": "الشبكات الاسلكية",
+		"question": "What is the concept of symbol rate in digital modulation?",
+		"answer": "Symbol rate refers to the number of symbol changes per second in digital modulation, indicating the rate at which data is transmitted."
+	},
+	{
+		"id": 193,
+		"subject": "الشبكات الاسلكية",
+		"question": "What is switching in wireless networks?",
+		"answer": "Switching in wireless networks refers to the process of forwarding data packets between different network segments or devices."
+	},
+	{
+		"id": 194,
+		"subject": "الشبكات الاسلكية",
+		"question": "What are the types of switching techniques used in wireless networks?",
+		"answer": "The types of switching techniques used in wireless networks include circuit-switching, packet-switching, and message-switching."
+	},
+	{
+		"id": 195,
+		"subject": "الشبكات الاسلكية",
+		"question": "What is circuit-switching in wireless networks?",
+		"answer": "Circuit-switching in wireless networks establishes a dedicated communication path between two devices for the duration of a call or session."
+	},
+	{
+		"id": 196,
+		"subject": "الشبكات الاسلكية",
+		"question": "What is packet-switching in wireless networks?",
+		"answer": "Packet-switching in wireless networks involves breaking data into packets and forwarding them independently based on destination addresses."
+	},
+	{
+		"id": 197,
+		"subject": "الشبكات الاسلكية",
+		"question": "What is message-switching in wireless networks?",
+		"answer": "Message-switching in wireless networks involves forwarding entire messages between devices without breaking them into packets."
+	},
+	{
+		"id": 198,
+		"subject": "الشبكات الاسلكية",
+		"question": "What is the purpose of switching in wireless networks?",
+		"answer": "The purpose of switching in wireless networks is to enable efficient and reliable communication between devices or network segments."
+	},
+	{
+		"id": 199,
+		"subject": "الشبكات الاسلكية",
+		"question": "What is a switch in wireless networks?",
+		"answer": "A switch in wireless networks is a networking device that connects multiple devices together and forwards data packets between them."
+	},
+	{
+		"id": 200,
+		"subject": "الشبكات الاسلكية",
+		"question": "What is a virtual switch in wireless networks?",
+		"answer": "A virtual switch in wireless networks is a software-based switch that operates within a virtualized network environment."
+	},
+	{
+		"id": 201,
+		"subject": "الشبكات الاسلكية",
+		"question": "What is a MAC address in wireless networks?",
+		"answer": "A MAC address (Media Access Control address) is a unique identifier assigned to a network interface controller (NIC) in a wireless network."
+	},
+	{
+		"id": 202,
+		"subject": "الشبكات الاسلكية",
+		"question": "What is VLAN in wireless networks?",
+		"answer": "VLAN (Virtual Local Area Network) is a network technology that allows for the creation of logical networks within a physical network infrastructure."
+	},
+	{
+		"id": 203,
+		"subject": "الشبكات الاسلكية",
+		"question": "What is a wireless LAN (WLAN)?",
+		"answer": "A wireless LAN (WLAN) is a local area network that uses wireless communication to connect devices within a limited area."
+	},
+	{
+		"id": 204,
+		"subject": "الشبكات الاسلكية",
+		"question": "What are the advantages of using a wireless LAN?",
+		"answer": "Advantages of using a wireless LAN include mobility, easy installation, scalability, and flexibility in network design."
+	},
+	{
+		"id": 205,
+		"subject": "الشبكات الاسلكية",
+		"question": "What are the main components of a wireless LAN system?",
+		"answer": "The main components of a wireless LAN system are access points (APs), wireless clients, and a wireless LAN controller (WLC) for centralized management."
+	},
+	{
+		"id": 206,
+		"subject": "الشبكات الاسلكية",
+		"question": "What is the purpose of an access point in a wireless LAN?",
+		"answer": "An access point serves as a central hub that allows wireless clients to connect to the network and provides a bridge between the wireless and wired networks."
+	},
+	{
+		"id": 207,
+		"subject": "الشبكات الاسلكية",
+		"question": "What is a Wireless Local Area Network (WLAN)?",
+		"answer": "A WLAN is a wireless network that allows devices to connect and communicate within a limited area, such as a home or office."
+	},
+	{
+		"id": 208,
+		"subject": "الشبكات الاسلكية",
+		"question": "What is WiMAX?",
+		"answer": "WiMAX stands for Worldwide Interoperability for Microwave Access. It is a wireless communication technology that provides high-speed broadband connections over long distances."
+	},
+	{
+		"id": 209,
+		"subject": "الشبكات الاسلكية",
+		"question": "What is a Wireless Personal Area Network (WPAN)?",
+		"answer": "A WPAN is a wireless network that allows devices to communicate with each other over short distances, typically within a range of 10 meters or less."
+	},
+	{
+		"id": 210,
+		"subject": "الشبكات الاسلكية",
+		"question": "What is Bluetooth?",
+		"answer": "Bluetooth is a wireless communication technology that enables short-range data exchange between devices, such as smartphones, tablets, and computers."
+	},
+	{
+		"id": 211,
+		"subject": "الشبكات الاسلكية",
+		"question": "What is a cellular network?",
+		"answer": "A cellular network is a wireless network that uses cell sites to provide coverage and communication services."
+	},
+	{
+		"id": 212,
+		"subject": "الشبكات الاسلكية",
+		"question": "What is the purpose of a SIM card in a cellular network?",
+		"answer": "A SIM card (Subscriber Identity Module) stores subscriber information and enables authentication and identification on a cellular network."
+	},
+	{
+		"id": 213,
+		"subject": "الشبكات الاسلكية",
+		"question": "What are the main advantages of cellular networks?",
+		"answer": "Some advantages include wide coverage, mobility, scalability, and the ability to support a large number of users simultaneously."
+	},
+	{
+		"id": 214,
+		"subject": "الشبكات الاسلكية",
+		"question": "What is the purpose of a base station in a cellular network?",
+		"answer": "A base station is responsible for transmitting and receiving wireless signals to and from mobile devices within its coverage area."
+	},
+	{
+		"id": 215,
+		"subject": "الشبكات الاسلكية",
+		"question": "What is the role of a Mobile Switching Center (MSC) in a cellular network?",
+		"answer": "The MSC is responsible for call control, switching, and mobility management in a cellular network."
+	},
+	{
+		"id": 216,
+		"subject": "الشبكات الاسلكية",
+		"question": "What is the difference between 2G and 3G cellular networks?",
+		"answer": "2G networks provide voice and basic data services, while 3G networks offer higher data rates and support multimedia applications."
+	},
+	{
+		"id": 217,
+		"subject": "الشبكات الاسلكية",
+		"question": "What are the main components of a cellular network infrastructure?",
+		"answer": "Components include cell sites, base stations, Mobile Switching Centers (MSCs), and the backbone network."
+	},
+	{
+		"id": 218,
+		"subject": "الشبكات الاسلكية",
+		"question": "What is the purpose of handover in a cellular network?",
+		"answer": "Handover allows a mobile device to switch from one cell to another while maintaining an ongoing call or data session."
+	},
+	{
+		"id": 219,
+		"subject": "الشبكات الاسلكية",
+		"question": "What is the significance of frequency reuse in cellular networks?",
+		"answer": "Frequency reuse allows the same frequency channels to be used in different cells, maximizing the efficient use of available spectrum."
+	},
+	{
+		"id": 220,
+		"subject": "الشبكات الاسلكية",
+		"question": "What is the purpose of encryption in cellular networks?",
+		"answer": "Encryption ensures the security and confidentiality of voice and data transmissions over cellular networks."
+	},
+	{
+		"id": 221,
+		"subject": "الشبكات الاسلكية",
+		"question": "What is a wireless network?",
+		"answer": "A network that allows devices to communicate without physical connections."
+	},
+	{
+		"id": 222,
+		"subject": "الشبكات الاسلكية",
+		"question": "What are the advantages of wireless networks?",
+		"answer": "Mobility, flexibility, scalability, and cost-effectiveness."
+	},
+	{
+		"id": 223,
+		"subject": "الشبكات الاسلكية",
+		"question": "What are the main components of a wireless network?",
+		"answer": "Wireless access points (APs), wireless clients, and a network infrastructure."
+	},
+	{
+		"id": 224,
+		"subject": "الشبكات الاسلكية",
+		"question": "What is a wireless access point (AP)?",
+		"answer": "A device that allows wireless devices to connect to a wired network."
+	},
+	{
+		"id": 225,
+		"subject": "الشبكات الاسلكية",
+		"question": "What is Wi-Fi?",
+		"answer": "A wireless networking technology that uses radio waves to provide high-speed internet and network connections."
+	},
+	{
+		"id": 226,
+		"subject": "الشبكات الاسلكية",
+		"question": "What is a wireless LAN (WLAN)?",
+		"answer": "A local area network that uses wireless communication to connect devices within a limited area."
+	},
+	{
+		"id": 227,
+		"subject": "الشبكات الاسلكية",
+		"question": "What is a wireless MAN (WMAN)?",
+		"answer": "A metropolitan area network that uses wireless communication to cover a larger geographic area than a WLAN."
+	},
+	{
+		"id": 228,
+		"subject": "الشبكات الاسلكية",
+		"question": "What is a wireless WAN (WWAN)?",
+		"answer": "A wide area network that uses wireless communication to connect devices over a large geographical area."
+	},
+	{
+		"id": 229,
+		"subject": "الشبكات الاسلكية",
+		"question": "What are the advantages of satellite communication in wireless networks?",
+		"answer": "Global coverage, long-distance communication, and resilience to natural disasters or geographical barriers."
+	},
+
+	{
+		"id": 237,
+		"subject": "مستودعات البيانات",
+		"question": "What is a data warehouse?",
+		"answer": "A data warehouse is a large, centralized repository of data used for reporting and analysis."
+	},
+	{
+		"id": 238,
+		"subject": "مستودعات البيانات",
+		"question": "What is the purpose of a data warehouse?",
+		"answer": "The purpose of a data warehouse is to provide a single source of truth for business intelligence and decision-making."
+	},
+	{
+		"id": 239,
+		"subject": "مستودعات البيانات",
+		"question": "What is the difference between a data warehouse and a database?",
+		"answer": "A data warehouse is optimized for reporting and analysis while a database is optimized for transaction processing."
+	},
+	{
+		"id": 240,
+		"subject": "مستودعات البيانات",
+		"question": "What is ETL?",
+		"answer": "ETL stands for Extract, Transform, Load. It's the process of extracting data from source systems, transforming it into a common format, and loading it into a data warehouse."
+	},
+	{
+		"id": 241,
+		"subject": "مستودعات البيانات",
+		"question": "What is OLAP?",
+		"answer": "OLAP stands for Online Analytical Processing. It's a category of software tools that allows users to analyze data from multiple dimensions."
+	},
+	{
+		"id": 242,
+		"subject": "مستودعات البيانات",
+		"question": "What are the benefits of using a data warehouse?",
+		"answer": "A data warehouse provides faster and more accurate reporting, better decision-making, and improved data quality."
+	},
+	{
+		"id": 245,
+		"subject": "مستودعات البيانات",
+		"question": "What is data mining?",
+		"answer": "Data mining is the process of discovering patterns and knowledge from large amounts of data stored in databases or data warehouses."
+	},
+	{
+		"id": 246,
+		"subject": "مستودعات البيانات",
+		"question": "What is a fact table?",
+		"answer": "A fact table is the central table in a star or snowflake schema that contains the measures or facts of the data warehouse."
+	},
+	{
+		"id": 247,
+		"subject": "مستودعات البيانات",
+		"question": "What do we mean by the Relational database modeling process?",
+		"answer": "Relational database modeling process means – normalization, relations or tables are progressively decomposed into smaller relations to a point where all attributes in a relation are very tightly coupled with the primary key of the relation. First normal form: data items are atomic, Second normal form: attributes fully depend on primary key, Third normal form: all non-key attributes are completely independent of each other."
+	},
+	{
+		"id": 248,
+		"subject": "مستودعات البيانات",
+		"question": "What do we mean by the process of normalization in general?",
+		"answer": "The process of normalization generally breaks a table into many independent tables. A normalized database yields a flexible model, making it easy to maintain dynamic relationships between business entities."
+	},
+	{
+		"id": 249,
+		"subject": "مستودعات البيانات",
+		"question": "What are the advantages of a relational database system?",
+		"answer": "A relational database system is effective and efficient for operational databases – a lot of updates (aiming at optimizing update performance)."
+	},
+	{
+		"id": 250,
+		"subject": "مستودعات البيانات",
+		"question": "What are the problems in heterogeneous information sources?",
+		"answer": "The problems are different interfaces, different data representations, duplicate and inconsistent information."
+	},
+	{
+		"id": 251,
+		"subject": "مستودعات البيانات",
+		"question": "What do we mean by interface?",
+		"answer": "Interface is a small component found to make the communication between two different systems easy."
+	},
+	{
+		"id": 252,
+		"subject": "مستودعات البيانات",
+		"question": "What do we mean by different data representations?",
+		"answer": "One may represent its data in binary, another may represent its data in hexadecimal, and so on."
+	},
+	{
+		"id": 253,
+		"subject": "مستودعات البيانات",
+		"question": "What do we mean by inconsistent information?",
+		"answer": "Inconsistent information refers to some information having extra fields, or the opposite, some information with an increase order, other information with a decrease order, and so on."
+	},
+	{
+		"id": 254,
+		"subject": "مستودعات البيانات",
+		"question": "what do we mean by OLTP",
+		"answer": "On Line Transaction Processing"
+	},
+	{
+		"id": 254,
+		"subject": "مستودعات البيانات",
+		"question": "Mention the concept of OLTP.",
+		"answer": "Describes processing at operational database Major task of traditional relational DBMS Day-to-day operations: purchasing, inventory, banking, manufacturing, payroll, registration, accounting, etc."
+	},
+	{
+		"id": 254,
+		"subject": "مستودعات البيانات",
+		"question": "What do we mean by OLAP",
+		"answer": "On Line Analytical Processing"
+	},
+	{
+		"id": 254,
+		"subject": "مستودعات البيانات",
+		"question": "Mention the concept of OLAP",
+		"answer": "Describes processing at warehouse Major task of data warehouse system Data analysis and decision making"
+	},
+	{
+		"id": 254,
+		"subject": "مستودعات البيانات",
+		"question": "Why a Separate Data Warehouse?",
+		"answer": "High performance for both systems DBMS— tuned for OLTP: access methods, indexing, concurrency control, recovery Warehouse—tuned for OLAP: complex OLAP queries, multidimensional view, consolidation Different functions and different data: - missing data: Decision support requires historical data which operational DBs do not typically maintain - data consolidation: DS requires consolidation (aggregation, summarization) of data from heterogeneous sources - data quality: different sources typically use inconsistent data representations, codes and formats which have to be reconciled"
+	},
+	{
+		"id": 254,
+		"subject": "مستودعات البيانات",
+		"question": "what do we mean by pivot?",
+		"answer": "The pivot operation is also known as rotation. It rotates the data axes in view in order to provide an alternative presentation of data."
+	},
+	{
+		"id": 255,
+		"subject": "مستودعات البيانات",
+		"question": "اكتب برنامج يقوم بفحص اذا كانت المصفوفة مرتبة تصاعديا وتنازليا",
+		"answer": "void sortedArray(int A[], int n) {\n\t  int i = 2, j;\n  while (A[i] == A[i - 1]) {\n    i++;\n  }\n\n  j = i;\n  while (i < n && A[i] <= A[i - 1]) {\n    i++;\n  }\n\n  if (i == j) {\n    while (i < n && A[i] >= A[i - 1]) {\n      i++;\n    }\n  }\n\n  if (i == n) {\n    cout << \\\"S\\\";\n  } else {\n    cout << \\\"NS\\\";\n  }\n}"
+	},
+	{
+		"id": 256,
+		"subject": "مستودعات البيانات",
+		"question": "اكتب دالة تقوم بالبحث عن اكبر عنصر وعدد مرات تكراره في المصفوفة",
+		"answer": "void maxFreq(int A[], int n) {int i, c = 1, m = 0;\nfor (i = 0; i < n; i++)\n  if (A[i] > A[m])\n    m = i;\n\ni = m;\nm = A[m];\nfor (i = i + 1; i < n; i++)\n  if (A[i] == m)\n    c++;\n\n cout<< c;}"
+	},
+	{
+		"id": 257,
+		"subject": "مستودعات البيانات",
+		"question": "اكتب دالة ذكية تقوم بجمع الاعداد المحصورة بين عددين وترجع المجموع",
+		"answer": "int sum(int x, int y)\n{\n    if (x > y)\n    {\n        int temp = x;\n        x = y;\n        y = temp;\n    }\n    return (x + y) * (y - x + 1) / 2;\n}"
+	},
+	{
+		"id": 258,
+		"subject": "مستودعات البيانات",
+		"question": "اكتب برنامج يقوم بتوليد 200 رقم عشوائي ومن ثم يقوم بطباعة عدد الارقام الزوجية والفردية",
+		"answer": "\nint main()\n{\n    int x, even = 0, i;\n    for (i = 0; i < 200; i++)\n    {\n        x = rand() % 1000;\n        if (x % 2 == 0)\n            even++;\n    }\n    cout << \"even: \" << even << \"\\nodd: \" << 200 - even;\n}"
+	},
+	{
+		"id": 259,
+		"subject": "مستودعات البيانات",
+		"question": "اكتب دالة تقوم بتصنيف درجات الطلاب الى 10 مجموعات حسب الدرجات",
+		"answer": "void groups(int A[], int n, int g)\n{\n    int i, c = 1;\n    for (i = 0; i < n; i++)\n    {\n        if (A[i] % 10 == g)\n        {\n            cout << A[i] << \" \";\n            c++;\n\n            if (c % 5 == 0)\n                cout << std::endl;\n        }\n    }\n}"
+	},
+	{
+		"id": 260,
+		"subject": "مستودعات البيانات",
+		"question": "اكتب برنامج يقوم بتوليد 200 رقم عشوائي ويقوم بزيادة نسبة الاعداد الفردية(الاناث) بنسبة(5%) ",
+		"answer": "int main()\n{\n    int i, x, f, a[200];\n    for (i = 0; i < 200; i++)\n     {\n        x = rand() % 2;\n        if ((i + 1) % 10 == 0)\n            x = 1;\n        a[i] = x;\n\n        if (x == 1)\n            f++;\n    }\n    cout << \"female: \" << f / 2.0 << \"%\\n\"\n         << \"male: \" << (200 - f) / 2.0 << \"%\";\n\n    return 0;\n}"
+	}
+]
