@@ -48,7 +48,7 @@ export type questionProps = {
 	questions: questionType[];
 	selectedOptionIndex: number;
 	correctOptionIndex?: number;
-	handleOptionClick: QRL<(index?: number) => void>;
+	handleOptionClick: QRL<(index: number) => void>;
 };
 
 export type ResultsProps = {
