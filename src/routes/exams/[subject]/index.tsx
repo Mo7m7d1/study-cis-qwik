@@ -113,7 +113,9 @@ export default component$(() => {
 									questions={subjectQuestions}
 									currentQuestionIndex={currentQuestionIndex.value}
 									selectedOptionIndex={selectedOptionIndex.value}
-									handleOptionClick={handleOptionClick}
+									handleOptionClick={$((index: any) =>
+										handleOptionClick(index)
+									)}
 								/>
 								<NextButton
 									isLastQuestion={
